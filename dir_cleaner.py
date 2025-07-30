@@ -1,7 +1,7 @@
 import os 
 import shutil 
 
-# file cleaner for current directory
+# file cleaner and sorter for a directory
 
 print("Sort and Clean Directories")
 print("==============================")
